@@ -1,0 +1,781 @@
+Nest_ID,Transect_ID,species,Scientific_name,Season,Habitat_type,Month,Year
+id1,A_1,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,December,2009
+id2,A_1,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,December,2009
+id3,A_1,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id4,A_1,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id5,A_1,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id6,A_2,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id7,A_2,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id8,A_2,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,December,2009
+id9,A_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id10,A_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id11,A_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id12,A_10,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,December,2009
+id13,A_9,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,December,2009
+id14,A_4,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Light gap,January,2010
+id15,A_4,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Light gap,January,2010
+id16,A_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,January,2010
+id17,A_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,January,2010
+id18,A_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,January,2010
+id19,A_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,January,2010
+id20,A_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,January,2010
+id21,A_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,January,2010
+id22,A_9,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,January,2010
+id23,A_10,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,January,2010
+id24,A_10,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,January,2010
+id25,A_10,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,January,2010
+id26,A_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,January,2010
+id27,A_9,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,January,2010
+id28,A_9,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,January,2010
+id29,A_9,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,January,2010
+id30,A_9,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,January,2010
+id31,A_9,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,January,2010
+id32,A_9,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,January,2010
+id33,A_9,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,January,2010
+id34,A_4,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,February,2010
+id35,A_4,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,February,2010
+id36,A_4,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Young segondary forest,February,2010
+id37,A_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,February,2010
+id38,A_9,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,February,2010
+id39,A_9,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,February,2010
+id40,A_10,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,February,2010
+id41,A_10,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,February,2010
+id200,A_10,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,April,2009
+id201,A_10,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,April,2009
+id202,A_10,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,April,2009
+id203,A_10,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,April,2009
+id204,A_1,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Swamp,April,2009
+id205,A_5,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,April,2009
+id206,A_5,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,April,2009
+id207,A_5,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,April,2009
+id208,A_2,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,April,2009
+id209,A_8,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,April,2009
+id210,A_8,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,April,2009
+id211,A_1,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id212,A_1,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id213,A_1,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id214,A_1,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id215,A_5,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,March,2010
+id216,A_5,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,March,2010
+id217,A_5,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,March,2010
+id218,A_6,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,March,2010
+id219,A_1,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Riparian forest,May,2009
+id220,A_8,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,March,2010
+id221,A_9,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,March,2010
+id222,A_10,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,March,2010
+id223,A_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,April,2009
+id224,A_2,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,May,2009
+id225,A_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id226,A_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id227,A_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id228,A_4,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id229,A_4,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id230,A_4,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id231,A_4,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id232,A_4,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id233,A_1,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id234,A_4,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,April,2009
+id235,A_1,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id236,A_2,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id237,A_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id238,A_4,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,May,2009
+id239,A_5,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,May,2009
+id240,A_6,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id241,A_6,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id242,A_6,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id243,A_6,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id244,A_10,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id245,A_1,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,June,2009
+id246,A_2,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,June,2009
+id247,A_2,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,June,2009
+id248,A_2,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,June,2009
+id249,A_2,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,June,2009
+id250,A_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Swamp,June,2009
+id251,A_3,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Light gap,June,2009
+id252,A_3,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Light gap,June,2009
+id253,A_3,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Light gap,June,2009
+id254,A_3,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Light gap,June,2009
+id255,A_4,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,June,2009
+id256,A_4,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,June,2009
+id257,A_6,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Riparian forest,June,2009
+id258,A_4,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,April,2009
+id259,A_4,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,April,2009
+id260,A_4,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,April,2009
+id261,A_8,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,June,2009
+id262,A_8,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,June,2009
+id263,A_8,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,June,2009
+id264,A_8,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Riparian forest,June,2009
+id265,A_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,June,2009
+id266,A_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,June,2009
+id267,A_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,June,2009
+id268,A_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,June,2009
+id269,A_4,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Light gap,June,2009
+id270,A_4,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,June,2009
+id271,A_5,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,April,2009
+id272,A_5,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,April,2009
+id273,A_5,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,April,2009
+id274,A_5,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,April,2009
+id275,A_6,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,June,2009
+id276,A_6,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,June,2009
+id277,A_6,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,June,2009
+id278,A_8,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Riparian forest,June,2009
+id279,A_8,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Riparian forest,June,2009
+id280,A_8,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Riparian forest,June,2009
+id281,A_10,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,June,2009
+id405,A_2,Gorilla,Gorilla gorilla gorilla,Short-Dry season,Swamp,August,2009
+id406,A_2,Gorilla,Gorilla gorilla gorilla,Short-Dry season,Swamp,August,2009
+id407,A_3,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,August,2009
+id408,A_4,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,August,2009
+id409,A_4,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,August,2009
+id410,A_5,Gorilla,Gorilla gorilla gorilla,Short-Dry season,Old secondary forest,August,2009
+id411,A_5,Gorilla,Gorilla gorilla gorilla,Short-Dry season,Light gap,August,2009
+id412,A_8,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Swamp,August,2009
+id413,A_1,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,August,2009
+id414,A_1,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,August,2009
+id415,A_2,Gorilla,Gorilla gorilla gorilla,Short-Dry season,Swamp,August,2009
+id416,A_3,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,August,2009
+id417,A_3,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,August,2009
+id418,A_4,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,August,2009
+id419,A_5,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,August,2009
+id420,A_5,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,August,2009
+id421,A_6,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,August,2009
+id422,A_8,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,August,2009
+id423,A_8,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,August,2009
+id424,A_9,Gorilla,Gorilla gorilla gorilla,Short-Dry season,Swamp,August,2009
+id425,A_9,Gorilla,Gorilla gorilla gorilla,Short-Dry season,Swamp,August,2009
+id426,A_9,Gorilla,Gorilla gorilla gorilla,Short-Dry season,Swamp,August,2009
+id427,A_9,Gorilla,Gorilla gorilla gorilla,Short-Dry season,Swamp,August,2009
+id428,A_9,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,August,2009
+id429,A_9,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,August,2009
+id430,A_9,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,August,2009
+id431,A_10,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,August,2009
+id432,A_2,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Swamp,July,2009
+id433,A_2,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Swamp,July,2009
+id434,A_8,Gorilla,Gorilla gorilla gorilla,Short-Dry season,Young segondary forest,July,2009
+id435,A_8,Gorilla,Gorilla gorilla gorilla,Short-Dry season,Young segondary forest,July,2009
+id436,A_8,Gorilla,Gorilla gorilla gorilla,Short-Dry season,Young segondary forest,July,2009
+id437,A_8,Gorilla,Gorilla gorilla gorilla,Short-Dry season,Young segondary forest,July,2009
+id438,A_8,Gorilla,Gorilla gorilla gorilla,Short-Dry season,Young segondary forest,July,2009
+id439,A_8,Gorilla,Gorilla gorilla gorilla,Short-Dry season,Young segondary forest,July,2009
+id440,A_8,Gorilla,Gorilla gorilla gorilla,Short-Dry season,Young segondary forest,July,2009
+id441,A_9,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,July,2009
+id442,A_9,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,July,2009
+id443,A_9,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,July,2009
+id444,A_9,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,July,2009
+id445,A_9,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,July,2009
+id446,A_3,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,July,2009
+id447,A_6,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,July,2009
+id448,A_6,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,July,2009
+id449,A_8,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Riparian forest,July,2009
+id450,A_8,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Riparian forest,July,2009
+id451,A_8,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Riparian forest,July,2009
+id452,A_8,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,July,2009
+id453,A_8,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,July,2009
+id454,A_9,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,July,2009
+id455,A_9,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,July,2009
+id456,A_9,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,July,2009
+id457,A_9,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,July,2009
+id458,A_1,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,August,2009
+id517,A_1,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,September,2009
+id518,A_1,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,September,2009
+id519,A_1,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,September,2009
+id520,A_4,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,September,2009
+id521,A_4,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id522,A_4,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id523,A_4,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id524,A_5,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id525,A_6,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,September,2009
+id526,A_7,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Riparian forest,September,2009
+id527,A_10,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Riparian forest,September,2009
+id528,A_1,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id529,A_1,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id530,A_4,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,September,2009
+id531,A_4,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,September,2009
+id532,A_4,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,September,2009
+id533,A_4,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,September,2009
+id534,A_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id535,A_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id536,A_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id537,A_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id538,A_9,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Swamp,September,2009
+id539,A_9,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Swamp,September,2009
+id540,A_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Riparian forest,October,2009
+id541,A_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Riparian forest,October,2009
+id542,A_3,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Swamp,October,2009
+id543,A_4,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,October,2009
+id544,A_5,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,October,2009
+id545,A_6,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,October,2009
+id546,A_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,October,2009
+id547,A_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,October,2009
+id548,A_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,October,2009
+id549,A_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,October,2009
+id550,A_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id551,A_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id552,A_4,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id553,A_4,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id554,A_5,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id555,A_6,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id556,A_6,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id557,A_6,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id558,A_6,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id559,A_7,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id560,A_7,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id561,A_7,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,October,2009
+id562,A_7,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,October,2009
+id563,A_9,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id564,A_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id565,A_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id566,A_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id567,A_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id568,A_4,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id569,A_4,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id570,A_4,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id571,A_5,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id572,A_5,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id573,A_5,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id574,A_9,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id575,A_9,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id576,A_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,November,2009
+id577,A_10,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Swamp,November,2009
+id578,A_10,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Swamp,November,2009
+id579,A_10,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Swamp,November,2009
+id580,A_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id581,A_5,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id582,A_5,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id583,A_5,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id584,A_6,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id585,A_6,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id586,A_6,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id587,A_9,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id588,A_9,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id589,A_9,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id590,A_9,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id591,A_9,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id592,A_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id593,A_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id282,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,April,2009
+id283,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,April,2009
+id284,N_7,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,April,2009
+id285,N_7,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,April,2009
+id286,N_7,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,April,2009
+id287,N_1,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,May,2009
+id288,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,May,2009
+id289,N_4,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id290,N_4,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,May,2009
+id291,N_4,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,May,2009
+id292,N_4,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,May,2009
+id293,N_5,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,May,2009
+id294,N_6,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,May,2009
+id295,N_7,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Light gap,May,2009
+id296,N_7,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,May,2009
+id297,N_7,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,May,2009
+id298,N_7,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,May,2009
+id299,N_7,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id300,N_7,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id301,N_8,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,May,2009
+id302,N_8,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,May,2009
+id303,N_10,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Swamp,May,2009
+id304,N_10,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Swamp,May,2009
+id305,N_10,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Swamp,May,2009
+id306,N_10,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Swamp,May,2009
+id307,N_10,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Swamp,May,2009
+id308,N_10,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Riparian forest,May,2009
+id309,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,May,2009
+id310,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,May,2009
+id311,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,May,2009
+id312,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Riparian forest,May,2009
+id313,N_7,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,May,2009
+id314,N_9,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,May,2009
+id315,N_10,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Young segondary forest,May,2009
+id316,N_10,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Young segondary forest,May,2009
+id317,N_10,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Young segondary forest,May,2009
+id318,N_1,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Riparian forest,June,2009
+id319,N_1,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Riparian forest,June,2009
+id320,N_5,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,June,2009
+id321,N_6,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Young segondary forest,June,2009
+id322,N_6,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Riparian forest,June,2009
+id323,N_6,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Riparian forest,June,2009
+id324,N_7,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,June,2009
+id325,N_7,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,June,2009
+id326,N_1,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,June,2009
+id327,N_1,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,June,2009
+id328,N_1,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,June,2009
+id329,N_1,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,June,2009
+id330,N_2,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Swamp,June,2009
+id331,N_2,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Swamp,June,2009
+id332,N_3,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,June,2009
+id333,N_3,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,June,2009
+id334,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Swamp,June,2009
+id335,N_4,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,June,2009
+id336,N_4,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,June,2009
+id337,N_4,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,June,2009
+id338,N_4,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,June,2009
+id339,N_4,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,June,2009
+id340,N_5,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Riparian forest,June,2009
+id341,N_5,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Riparian forest,June,2009
+id342,N_6,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,June,2009
+id343,N_6,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,June,2009
+id344,N_6,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,June,2009
+id345,N_9,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,June,2009
+id346,N_9,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,June,2009
+id347,N_9,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,June,2009
+id348,N_9,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,June,2009
+id349,N_9,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,June,2009
+id350,N_9,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,June,2009
+id459,N_1,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,July,2009
+id460,N_1,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,July,2009
+id461,N_1,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,July,2009
+id462,N_1,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,July,2009
+id463,N_1,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,July,2009
+id464,N_1,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,July,2009
+id465,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,July,2009
+id466,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,July,2009
+id467,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Riparian forest,July,2009
+id468,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Riparian forest,July,2009
+id469,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Riparian forest,July,2009
+id470,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Riparian forest,July,2009
+id471,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Riparian forest,July,2009
+id472,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Riparian forest,July,2009
+id473,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Riparian forest,July,2009
+id474,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Swamp,July,2009
+id475,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,July,2009
+id476,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,July,2009
+id477,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,July,2009
+id478,N_5,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,July,2009
+id479,N_7,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Riparian forest,July,2009
+id480,N_7,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Riparian forest,July,2009
+id481,N_3,Gorilla,Gorilla gorilla gorilla,Short-Dry season,Swamp,July,2009
+id482,N_4,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,July,2009
+id483,N_4,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,July,2009
+id484,N_4,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,July,2009
+id485,N_4,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,July,2009
+id486,N_4,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,July,2009
+id487,N_5,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Riparian forest,July,2009
+id488,N_5,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Riparian forest,July,2009
+id489,N_5,Gorilla,Gorilla gorilla gorilla,Short-Dry season,Riparian forest,July,2009
+id490,N_9,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Riparian forest,July,2009
+id491,N_4,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,August,2009
+id492,N_5,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Swamp,August,2009
+id493,N_6,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Riparian forest,August,2009
+id494,N_6,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Riparian forest,August,2009
+id495,N_6,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,August,2009
+id496,N_7,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,August,2009
+id497,N_7,Gorilla,Gorilla gorilla gorilla,Short-Dry season,Swamp,August,2009
+id498,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Riparian forest,August,2009
+id499,N_1,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,August,2009
+id500,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Swamp,August,2009
+id501,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Swamp,August,2009
+id502,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,August,2009
+id503,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,August,2009
+id504,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Riparian forest,August,2009
+id505,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Riparian forest,August,2009
+id506,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Riparian forest,August,2009
+id507,N_5,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,August,2009
+id508,N_5,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,August,2009
+id509,N_5,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,August,2009
+id510,N_5,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Near primary forest,August,2009
+id511,N_7,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Swamp,August,2009
+id512,N_7,Gorilla,Gorilla gorilla gorilla,Short-Dry season,Young segondary forest,August,2009
+id513,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,August,2009
+id514,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,August,2009
+id515,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,August,2009
+id516,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Dry season,Old secondary forest,August,2009
+id594,N_1,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id595,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id596,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id597,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id598,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,September,2009
+id599,N_4,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Light gap,September,2009
+id600,N_4,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Light gap,September,2009
+id601,N_4,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Young segondary forest,September,2009
+id602,N_4,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Young segondary forest,September,2009
+id603,N_7,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Swamp,September,2009
+id604,N_7,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Swamp,September,2009
+id605,N_9,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Riparian forest,September,2009
+id606,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,September,2009
+id607,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,September,2009
+id608,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id609,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,September,2009
+id610,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,September,2009
+id611,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Riparian forest,September,2009
+id612,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Riparian forest,September,2009
+id613,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Riparian forest,September,2009
+id614,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id615,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id616,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id617,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id618,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id619,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,September,2009
+id620,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,September,2009
+id621,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,September,2009
+id622,N_6,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id623,N_7,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id624,N_7,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id625,N_7,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,September,2009
+id626,N_7,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,September,2009
+id627,N_7,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,September,2009
+id628,N_7,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,September,2009
+id629,N_7,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,September,2009
+id630,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id631,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,September,2009
+id632,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,September,2009
+id633,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,September,2009
+id634,N_9,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Riparian forest,September,2009
+id635,N_9,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,September,2009
+id636,N_9,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id637,N_9,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,September,2009
+id638,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Young segondary forest,September,2009
+id639,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id640,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id641,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id642,N_3,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Swamp,October,2009
+id643,N_3,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Swamp,October,2009
+id644,N_3,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Swamp,October,2009
+id645,N_3,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Swamp,October,2009
+id646,N_3,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Swamp,October,2009
+id647,N_3,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Swamp,October,2009
+id648,N_3,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Swamp,October,2009
+id649,N_3,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Swamp,October,2009
+id650,N_3,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Swamp,October,2009
+id651,N_3,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Swamp,October,2009
+id652,N_3,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Swamp,October,2009
+id653,N_5,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id654,N_5,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id655,N_5,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id656,N_5,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id657,N_5,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id658,N_5,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id659,N_5,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id660,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id661,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id662,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id663,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id664,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id665,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id666,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id667,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id668,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id669,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id670,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id671,N_9,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Young segondary forest,October,2009
+id672,N_9,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Young segondary forest,October,2009
+id673,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id674,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id675,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id676,N_1,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Light gap,October,2009
+id677,N_3,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Swamp,October,2009
+id678,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id679,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id680,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id681,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id682,N_4,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,October,2009
+id683,N_4,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Riparian forest,October,2009
+id684,N_4,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Riparian forest,October,2009
+id685,N_4,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Riparian forest,October,2009
+id686,N_4,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,October,2009
+id687,N_5,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id688,N_6,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id689,N_6,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id690,N_6,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Riparian forest,October,2009
+id691,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,October,2009
+id692,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,October,2009
+id693,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,October,2009
+id694,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,October,2009
+id695,N_9,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,October,2009
+id696,N_9,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,October,2009
+id697,N_9,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,October,2009
+id698,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,October,2009
+id699,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,October,2009
+id700,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,October,2009
+id701,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id702,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id703,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id704,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id705,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id706,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id707,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id708,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,October,2009
+id709,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id710,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id711,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id712,N_4,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id713,N_4,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id714,N_5,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Riparian forest,November,2009
+id715,N_5,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Riparian forest,November,2009
+id716,N_6,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id717,N_6,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id718,N_6,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,November,2009
+id719,N_6,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,November,2009
+id720,N_8,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Young segondary forest,November,2009
+id721,N_8,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Young segondary forest,November,2009
+id722,N_8,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Young segondary forest,November,2009
+id723,N_8,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Young segondary forest,November,2009
+id724,N_8,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Young segondary forest,November,2009
+id725,N_8,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Young segondary forest,November,2009
+id726,N_8,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Young segondary forest,November,2009
+id727,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,November,2009
+id728,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,November,2009
+id729,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,November,2009
+id730,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,November,2009
+id731,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,November,2009
+id732,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,November,2009
+id733,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,November,2009
+id734,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,November,2009
+id735,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,November,2009
+id736,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,November,2009
+id737,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id738,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id739,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id740,N_10,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Young segondary forest,November,2009
+id741,N_1,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Light gap,November,2009
+id742,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,November,2009
+id743,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,November,2009
+id744,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id745,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Riparian forest,November,2009
+id746,N_2,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Riparian forest,November,2009
+id747,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id748,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id749,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id750,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id751,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id752,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id753,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id754,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id755,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id756,N_3,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id757,N_5,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id758,N_5,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id759,N_5,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id760,N_5,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id761,N_5,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id762,N_6,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Riparian forest,November,2009
+id763,N_6,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Riparian forest,November,2009
+id764,N_7,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id765,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id766,N_8,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Old secondary forest,November,2009
+id767,N_9,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,November,2009
+id768,N_9,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,November,2009
+id769,N_9,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,November,2009
+id770,N_9,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,November,2009
+id771,N_9,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,November,2009
+id772,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,November,2009
+id773,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id774,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id775,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Near primary forest,November,2009
+id776,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,November,2009
+id777,N_10,Chimpanzee,Pan troglodytes troglodytes,Short-Rainy season,Swamp,November,2009
+id778,N_10,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Young segondary forest,November,2009
+id779,N_10,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Young segondary forest,November,2009
+id780,N_10,Gorilla,Gorilla gorilla gorilla,Short-Rainy season,Young segondary forest,November,2009
+id42,N_2,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,December,2009
+id43,N_2,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,December,2009
+id44,N_2,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,December,2009
+id45,N_2,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,December,2009
+id46,N_2,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,December,2009
+id47,N_2,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,December,2009
+id48,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,December,2009
+id49,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,December,2009
+id50,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id51,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id52,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id53,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id54,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id55,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id56,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id57,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id58,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id59,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id60,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id61,N_5,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id62,N_5,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id63,N_6,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Young segondary forest,December,2009
+id64,N_6,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Young segondary forest,December,2009
+id65,N_6,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Young segondary forest,December,2009
+id66,N_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,December,2009
+id67,N_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,December,2009
+id68,N_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,December,2009
+id69,N_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,December,2009
+id70,N_10,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Young segondary forest,December,2009
+id71,N_10,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Young segondary forest,December,2009
+id72,N_10,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,December,2009
+id73,N_2,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id74,N_2,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id75,N_2,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,December,2009
+id76,N_2,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,December,2009
+id77,N_2,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,December,2009
+id78,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,December,2009
+id79,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,December,2009
+id80,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,December,2009
+id81,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,December,2009
+id82,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,December,2009
+id83,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,December,2009
+id84,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,December,2009
+id85,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,December,2009
+id86,N_3,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Swamp,December,2009
+id87,N_4,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,December,2009
+id88,N_4,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,December,2009
+id89,N_4,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,December,2009
+id90,N_4,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,December,2009
+id91,N_4,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,December,2009
+id92,N_4,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,December,2009
+id93,N_6,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,December,2009
+id94,N_6,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,December,2009
+id95,N_6,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,December,2009
+id96,N_6,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,December,2009
+id97,N_6,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,December,2009
+id98,N_6,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,December,2009
+id99,N_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,December,2009
+id100,N_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,December,2009
+id101,N_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,December,2009
+id102,N_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,December,2009
+id103,N_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,December,2009
+id104,N_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,December,2009
+id105,N_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,December,2009
+id106,N_9,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id107,N_9,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,December,2009
+id108,N_9,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,December,2009
+id109,N_10,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,December,2009
+id110,N_2,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,January,2010
+id111,N_2,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,January,2010
+id112,N_2,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,January,2010
+id113,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,January,2010
+id114,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,January,2010
+id115,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,January,2010
+id116,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,January,2010
+id117,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,January,2010
+id118,N_6,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Swamp,January,2010
+id119,N_6,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Swamp,January,2010
+id120,N_6,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Swamp,January,2010
+id121,N_7,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Swamp,January,2010
+id122,N_7,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Swamp,January,2010
+id123,N_9,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,January,2010
+id124,N_9,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,January,2010
+id125,N_9,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,January,2010
+id126,N_9,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,January,2010
+id127,N_9,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,January,2010
+id128,N_10,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,January,2010
+id129,N_10,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,January,2010
+id130,N_10,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,January,2010
+id131,N_1,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,January,2010
+id132,N_1,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,January,2010
+id133,N_1,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,January,2010
+id134,N_1,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,January,2010
+id135,N_2,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,January,2010
+id136,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,January,2010
+id137,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,January,2010
+id138,N_3,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Swamp,January,2010
+id139,N_3,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Swamp,January,2010
+id140,N_3,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Swamp,January,2010
+id141,N_3,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Swamp,January,2010
+id142,N_4,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,January,2010
+id143,N_5,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,January,2010
+id144,N_5,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,January,2010
+id145,N_6,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,January,2010
+id146,N_7,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,January,2010
+id147,N_7,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,January,2010
+id148,N_7,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Swamp,January,2010
+id149,N_7,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Swamp,January,2010
+id150,N_7,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Swamp,January,2010
+id151,N_7,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Swamp,January,2010
+id152,N_7,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Light gap,January,2010
+id153,N_7,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,January,2010
+id154,N_7,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,January,2010
+id155,N_7,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,January,2010
+id156,N_10,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Light gap,January,2010
+id157,N_10,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Young segondary forest,January,2010
+id158,N_1,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,February,2010
+id159,N_1,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,February,2010
+id160,N_1,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,February,2010
+id161,N_4,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,February,2010
+id162,N_4,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,February,2010
+id163,N_5,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Young segondary forest,February,2010
+id164,N_5,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Young segondary forest,February,2010
+id165,N_6,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,February,2010
+id166,N_6,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,February,2010
+id167,N_7,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,February,2010
+id168,N_7,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,February,2010
+id169,N_7,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,February,2010
+id170,N_7,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Swamp,February,2010
+id171,N_7,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,February,2010
+id172,N_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,February,2010
+id173,N_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,February,2010
+id174,N_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,February,2010
+id175,N_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,February,2010
+id176,N_10,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Young segondary forest,February,2010
+id177,N_2,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,February,2010
+id178,N_2,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,February,2010
+id179,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,February,2010
+id180,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,February,2010
+id181,N_3,Gorilla,Gorilla gorilla gorilla,Long-Dry season,Swamp,February,2010
+id182,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,February,2010
+id183,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,February,2010
+id184,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Near primary forest,February,2010
+id185,N_4,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,February,2010
+id186,N_4,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,February,2010
+id187,N_5,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,February,2010
+id188,N_5,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,February,2010
+id189,N_5,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,February,2010
+id190,N_5,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,February,2010
+id191,N_6,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,February,2010
+id192,N_8,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,February,2010
+id193,N_9,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,February,2010
+id194,N_9,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Swamp,February,2010
+id195,N_10,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,February,2010
+id196,N_10,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,February,2010
+id197,N_10,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Riparian forest,February,2010
+id198,N_10,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,February,2010
+id199,N_10,Chimpanzee,Pan troglodytes troglodytes,Long-Dry season,Old secondary forest,February,2010
+id351,N_2,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,March,2010
+id352,N_2,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,March,2010
+id353,N_2,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,March,2010
+id354,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,March,2010
+id355,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,March,2010
+id356,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,March,2010
+id357,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,March,2010
+id358,N_4,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,March,2010
+id359,N_4,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,March,2010
+id360,N_5,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Swamp,March,2010
+id361,N_5,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Swamp,March,2010
+id362,N_6,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,March,2010
+id363,N_7,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,March,2010
+id364,N_9,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Swamp,March,2010
+id365,N_9,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,March,2010
+id366,N_9,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,March,2010
+id367,N_9,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,March,2010
+id368,N_10,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Young segondary forest,March,2010
+id369,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,March,2010
+id370,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,March,2010
+id371,N_5,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,March,2010
+id372,N_5,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,March,2010
+id373,N_5,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,March,2010
+id374,N_5,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,March,2010
+id375,N_5,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,March,2010
+id376,N_5,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Light gap,March,2010
+id377,N_8,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,March,2010
+id378,N_8,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,March,2010
+id379,N_8,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,March,2010
+id380,N_8,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,March,2010
+id381,N_8,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,March,2010
+id382,N_8,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,March,2010
+id383,N_9,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,March,2010
+id384,N_9,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Near primary forest,March,2010
+id385,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Riparian forest,April,2010
+id386,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Riparian forest,April,2010
+id387,N_3,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Riparian forest,April,2010
+id388,N_3,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,April,2010
+id389,N_3,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,April,2010
+id390,N_3,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,April,2010
+id391,N_3,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,April,2010
+id392,N_3,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,April,2010
+id393,N_3,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,April,2010
+id394,N_3,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,April,2010
+id395,N_3,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Near primary forest,April,2010
+id396,N_3,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Near primary forest,April,2010
+id397,N_5,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,April,2010
+id398,N_5,Gorilla,Gorilla gorilla gorilla,Long-Rainy season,Swamp,April,2010
+id399,N_7,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Swamp,April,2010
+id400,N_7,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Swamp,April,2010
+id401,N_7,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Swamp,April,2010
+id402,N_7,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Swamp,April,2010
+id403,N_9,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,April,2010
+id404,N_9,Chimpanzee,Pan troglodytes troglodytes,Long-Rainy season,Old secondary forest,April,2010
